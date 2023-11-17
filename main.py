@@ -400,12 +400,12 @@
 
 # print(thisdict)
 
-car = {
-  "brand": "Ford",
-  "model": "Mustang",
-  "year": 1964
-}
+# car = {
+#   "brand": "Ford",
+#   "model": "Mustang",
+#   "year": 1964
+# }
 
-x = car.setdefault("model")
+# x = car.setdefault("model")
 
-print(x)
+# print(x)
